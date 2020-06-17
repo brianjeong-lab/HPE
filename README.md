@@ -1,2 +1,2 @@
 # HPE
-Installation, manual, test, 
+Installation, Manual, Test, 
